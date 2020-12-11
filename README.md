@@ -5,7 +5,7 @@
 
 ### I'am CSE undergrad student at SJB Institute of Technology! 
 
-- ⚡ Fun fact: I'am IRON MAN (Obviously a fan!)
+- ⚡ Fun fact: I'am IRON MAN (Obviously!)
 
 - 🌱 I’m currently learning Python,Django,Html,CSS and many other intresting stuff to build a tech savvy future!
 
