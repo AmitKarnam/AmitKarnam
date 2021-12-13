@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: I'am IRON MAN (Obviously!)
 
-- 🌱 I’m currently learning Python,Django,Html,CSS and many other intresting stuff to build a tech savvy future!
+- 🌱 I’m currently learning Python,Django,Html,CSS, React and also exploring many other technologies!
 
 - 📫 Reach me at: amitkarnam01@gmail.com
 
