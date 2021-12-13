@@ -3,7 +3,7 @@
 <!--
 **AmitKarnam/AmitKarnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### I'am CSE undergrad student at SJB Institute of Technology! 
+### I'am CSE undergrad student.
 
 - ⚡ Fun fact: I'am IRON MAN (Obviously!)
 
