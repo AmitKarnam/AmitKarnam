@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: I'am IRON MAN (Obviously!)
 
-- Comfortanle working with Python,Django,Html,Css.
+- 🌱 Comfortanle working with Python,Django,Html,Css.
 
 - 🌱 I’m currently learning Nodejs,React and also cloud native technologies such as Kubernetes !
 
