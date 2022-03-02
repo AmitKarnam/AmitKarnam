@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact: I'am IRON MAN (Obviously!)
 
-- 🌱 Comfortable working with Python,Django and Javascript
+- 🌱 Comfortable working with Python,Django and Javascript,C,Git,Data Structures.
 
-- 🌱 I’m currently learning Nodejs,React and also cloud native technologies such as Kubernetes !
+- 🌱 I’m currently learning Nodejs,React and also cloud native technologies such as Docker and Kubernetes !
 
 - 📫 Reach me at: amitkarnam01@gmail.com
 
